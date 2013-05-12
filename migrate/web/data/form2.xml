@@ -1,0 +1,6 @@
+<items>	
+    <item type="input" label="Package" name="Package" value=""/>
+    <item type="input" label="Version" name="Version" value=""/>
+    <item type="input" label="Package size" name="Size" value=""/>
+    <item type="input" label="Maintainer" name="Maintainer" value=""/>
+</items>

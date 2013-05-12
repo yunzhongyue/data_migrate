@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<toolbar> 
+  <item id="new" type="buttonSelect" img="new.gif" imgdis="new_dis.gif" text="新建"> 
+    <item type="button" id="new_db_db" text="DB-->DB" img="database.gif"/>  
+    <item type="button" id="new_db_ftp" text="DB--FTP" img="database.gif"/>  
+    <item type="button" id="new_db_ws" text="DB-->webService" img="database.gif"/>  
+    <item type="button" id="new_ftp_db" text="FTP-->DB" img="presentation.gif"/>  
+	<item type="button" id="new_ftp_ftp" text="FTP-->FTP" img="presentation.gif"/>
+	<item type="button" id="new_ftp_ws" text="FTP-->webService" img="presentation.gif"/>
+    <item type="button" id="new_ws_db" text="webService-->DB" img="presentation.gif"/>
+	<item type="button" id="new_ws_ftp" text="webService-->FTP" img="presentation.gif"/>
+	<item type="button" id="new_ws_ws" text="webService-->webService" img="presentation.gif"/>
+	<item type="separator" id="separator1"/>  
+    <item type="button" id="new_other" text="Other" img="other.gif"/> 
+  </item>
+  <item id="detail" type="button" img="copy.gif" text="查看"></item>
+  <item id="edit" type="button" img="page_setup_dis.gif" text="编辑"></item>
+  <item id="delete" type="button" img="close.gif" text="删除"></item>
+  <item type="separator" id="separator2"></item>
+  <item id="lookTask" type="button" img="cut.gif" text="查看任务"></item>  
+</toolbar>

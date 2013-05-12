@@ -1,0 +1,8 @@
+.active_ev_highlighter{
+    position : absolute;
+    /*z-index : 9999; */
+    background-color:#59b9ff;
+    box-shadow: #0979aF 0 0 2px;
+    font-size: 1px;
+    line-height: 1;
+}

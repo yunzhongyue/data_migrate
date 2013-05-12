@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<data>
+	<item id="1">
+		<Package>acx100-source</Package>
+		<Version>20080210-1.1</Version>
+		<Maintainer>Stefano Canepa</Maintainer>
+	</item>
+	<item id="2">
+		<Package>alien-arena-browser</Package>
+		<Version>7.0-1</Version>
+		<Maintainer>Debian Games Team</Maintainer>
+	</item>
+	<item id="3">
+		<Package>alien-browser</Package>
+		<Version>7.0-1</Version>
+		<Maintainer>Debian Games Team</Maintainer>
+	</item>
+	<item id="4">
+		<Package>arena-browser</Package>
+		<Version>7.0-1</Version>
+		<Maintainer>Debian Games Team</Maintainer>
+	</item>
+	<item id="5">
+		<Package>alien-arena</Package>
+		<Version>7.0-1</Version>
+		<Maintainer>Debian Games Team</Maintainer>
+	</item>
+	<item id="6">
+		<Package>acx100</Package>
+		<Version>7.0-1</Version>
+		<Maintainer>Debian Games Team</Maintainer>
+	</item>
+	<item id="7">
+		<Package>al-browser</Package>
+		<Version>7.0-1</Version>
+		<Maintainer>Debian Games Team</Maintainer>
+	</item>
+	<item id="8">
+		<Package>alie-browser</Package>
+		<Version>7.0-1</Version>
+		<Maintainer>Debian Games Team</Maintainer>
+	</item>
+</data>

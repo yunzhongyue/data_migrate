@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<toolbar> 
+  <item id="new" type="button" img="codebase/imgs/new.gif" text="新建"> </item>
+  <item id="detail" type="button" img="codebase/imgs/copy.gif" text="查看"></item>
+  <item id="edit" type="button" img="codebase/imgs/page_setup_dis.gif" text="编辑"></item>
+  <item id="delete" type="button" img="codebase/imgs/close.gif" text="删除"></item>
+</toolbar>

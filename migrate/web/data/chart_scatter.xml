@@ -1,0 +1,68 @@
+<data>
+	<item id="1">
+		<sales>4</sales><sales_2>4</sales_2><year>Type A</year>
+	</item>
+	<item id="2">
+		<sales>3.5</sales><sales_2>0.8</sales_2><year>Type B</year>
+	</item>
+	<item id="3">
+		<sales>2.4</sales><sales_2>1.1</sales_2><year>Type A</year>
+	</item>
+	<item id="4">
+		<sales>5.1</sales><sales_2>10.5</sales_2><year>Type C</year>
+	</item>
+	<item id="5">
+		<sales>4.8</sales><sales_2>9.1</sales_2><year>Type b</year>
+	</item>
+	<item id="6">
+		<sales>5.9</sales><sales_2>8.5</sales_2><year>Type A</year>
+	</item>
+	<item id="7">
+		<sales>3.1</sales><sales_2>7.7</sales_2><year>Type B</year>
+	</item>
+	<item id="8">
+		<sales>4.5</sales><sales_2>7.2</sales_2><year>Type A</year>
+	</item>
+	<item id="9">
+		<sales>5.9</sales><sales_2>12.9</sales_2><year>Type A</year>
+	</item>
+	<item id="10">
+		<sales>2.8</sales><sales_2>5.8</sales_2><year>Type B</year>
+	</item>
+	<item id="11">
+		<sales>3.7</sales><sales_2>8.1</sales_2><year>Type D</year>
+	</item>
+	<item id="12">
+		<sales>5.5</sales><sales_2>14.0</sales_2><year>Type A</year>
+	</item>
+	<item id="13">
+		<sales>4.1</sales><sales_2>1.5</sales_2><year>Type C</year>
+	</item>
+	<item id="14">
+		<sales>4.2</sales><sales_2>6.1</sales_2><year>Type C</year>
+	</item>
+	<item id="15">
+		<sales>2.7</sales><sales_2>1.9</sales_2><year>Type A</year>
+	</item>
+    <item id="16">
+		<sales>3.1</sales><sales_2>5.5</sales_2><year>Type B</year>
+	</item>
+	<item id="17">
+		<sales>6.3</sales><sales_2>12.1</sales_2><year>Type A</year>
+	</item>
+	<item id="18">
+		<sales>4.9</sales><sales_2>11.5</sales_2><year>Type C</year>
+	</item>
+	<item id="19">
+		<sales>2.8</sales><sales_2>10.2</sales_2><year>Type B</year>
+	</item>
+	<item id="20">
+		<sales>8.2</sales><sales_2>21.5</sales_2><year>Type A</year>
+	</item>
+	<item id="21">
+		<sales>7.2</sales><sales_2>15.8</sales_2><year>Type B</year>
+	</item>
+	<item id="22">
+		<sales>3.9</sales><sales_2>11.1</sales_2><year>Type A</year>
+	</item>
+</data>

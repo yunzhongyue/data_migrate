@@ -1,0 +1,92 @@
+::-webkit-scrollbar {
+    width: 13px;
+    height: 13px;
+}
+
+::-webkit-scrollbar-button:start:decrement,
+::-webkit-scrollbar-button:end:increment,
+{
+    display: block;
+	border-left:1px solid #dfdfdf;
+}
+
+::-webkit-scrollbar-button:vertical:increment{
+    background-position: -1px 2px, 0px 0px;
+    background-image:url(../../codebase/images/arrow_down.png), -webkit-gradient(linear, left top, right top, from(#ffffff), to(#cecece));
+}
+::-webkit-scrollbar-button:vertical:decrement
+{
+     background-image:url(../../codebase/images/arrow_up.png),-webkit-gradient(linear, left top, right top, from(#ffffff), to(#cecece));
+	background-position: -1px 1px, 0px 0px;
+}
+
+::-webkit-scrollbar-track:vertical
+{
+   background: -webkit-gradient(linear, left top, right top, from(#ffffff), to(#cecece));
+   border-left:1px solid #dfdfdf;
+}
+
+::-webkit-scrollbar-track-piece {
+	-webkit-border-radius: 7px;
+	-moz-border-radius: 7px;
+	border-radius: 7px;
+	background: -webkit-gradient(linear, left top, right top, from(#bfbfbf), color-stop(0.5, #e5e5e5), to(#ffffff));
+	border-right: 1px solid #e6e6e6;
+}
+
+::-webkit-scrollbar-thumb:vertical {
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right top, from(#bfc4c8), to(#8d939a));
+	-webkit-border-radius: 7px;
+	-moz-border-radius: 7px;
+	border-radius: 7px;
+	border:1px solid #898989;
+	border-right:1px solid #626262;
+}
+
+::-webkit-scrollbar-button:horizontal:start:decrement,
+::-webkit-scrollbar-button:horizontal:end:increment
+{
+   display: block;
+	border-top:1px solid #dfdfdf;
+}
+
+::-webkit-scrollbar-button:horizontal:increment
+{
+    background-position: 2px -1px, 0px 0px;
+    background-image:url(../../codebase/images/arrow_right.png), -webkit-gradient(linear, left top, left bottom, from(#ffffff), to(#cecece));
+
+}
+
+::-webkit-scrollbar-button:horizontal:decrement{
+     background-image:url(../../codebase/images/arrow_left.png),-webkit-gradient(linear, left top, left bottom, from(#ffffff), to(#cecece));
+	background-position: 1px -1px, 0px 0px;
+}
+
+::-webkit-scrollbar-track:horizontal{
+   background: -webkit-gradient(linear, left top, left bottom, from(#ffffff), to(#cecece));
+   border-top:1px solid #dfdfdf;
+}
+
+
+::-webkit-scrollbar-track-piece:horizontal{
+	-webkit-border-radius: 7px;
+	-moz-border-radius: 7px;
+	border-radius: 7px;
+	background: -webkit-gradient(linear, left top, left bottom, from(#bfbfbf), color-stop(0.5, #e5e5e5), to(#ffffff));
+	border-bottom: 1px solid #e6e6e6;
+}
+
+
+::-webkit-scrollbar-thumb:horizontal{
+    height: 50px;
+    background: -webkit-gradient(linear, left top, left bottom, from(#bfc4c8), to(#8d939a));
+	-webkit-border-radius: 7px;
+	-moz-border-radius: 7px;
+	border-radius: 7px;
+	border:1px solid #898989;
+	border-right:1px solid #626262;
+}
+::-webkit-scrollbar-corner{
+    background-color: #e5e5e5;
+}

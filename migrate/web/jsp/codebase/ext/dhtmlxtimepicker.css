@@ -1,0 +1,81 @@
+    /* Main container */
+    .dhtmlxtimepicker { 
+      /***********************************/
+      z-index: 110;
+      height: 25px;
+      width: 130px;
+      margin: 0;
+      font: normal 12px Tahoma;
+      padding-top: 18px;
+      -moz-user-select:none;
+    }
+    /* Timeformat (24/am/pm label) */
+    .dhtmlxtimepicker .timeFormat {
+      display: none;
+      float: left;
+      border: 1px solid black;
+      font-size: 11px;
+      width: 20px;
+      text-align: center;
+      margin: 0 20px;
+      cursor: pointer;
+    }
+    /* Hours and minutes */
+    .dhtmlxtimepicker .hours, .dhtmlxtimepicker .minutes, .dhtmlxtimepicker .seconds {
+      position: relative;
+      float: left;
+      display:inline;
+      font-size: 12px;
+      width: 20px;
+      letter-spacing: 2px;
+      padding: 2px 0px 2px 2px;
+      border: 1px solid #adadad;
+      border-width: 1 0 1 1;
+    }
+    /* Time delimeter */
+    .dhtmlxtimepicker .delimiter {
+      float: left;
+      width: 10px;
+      text-align: center;
+      padding-bottom: 4px;
+    }
+    /* Apply and Cancel button */
+    .dhtmlxtimepicker .btnApply, .dhtmlxtimepicker .btnCancel {
+      display: none;
+      float: left;
+      font-size: 12px;
+      font-weight: bold;
+      text-align: center;
+      width: 17px;
+      cursor: pointer;
+      color: #d44;
+    }
+    /* Apply button */
+    .dhtmlxtimepicker .btnApply {
+      margin-left: 15px;
+      color: #4c4;
+    }    
+    /* Time changer */
+    .dhtmlxtimepicker .changer {
+      display: block;
+      float: left;
+      background: url('../imgs/tp_btnsIncDec.gif');
+      height: 20px;
+      width: 11px;
+    }
+    /* Time changer elements */
+    .dhtmlxtimepicker .changer div {
+      height: 10px;
+      cursor: pointer;
+      font-size: 0px;
+    }
+    /* Time select box */
+    .dhtmlxtimepicker select {
+      position: absolute;
+      z-index: 110;
+      top: -1px;
+      left: -1px;
+      font-size: 9px;
+      display: none;
+      border: 1px solid #000;
+    }
